@@ -1,0 +1,12 @@
+#information_page:
+#  first_name: Mahesh
+#  last_name: Bongale
+#  street: BTM
+#  city: Bangalore
+#  zip_code: 123456
+#  phone_number: 999999999
+#
+#
+item_selection:
+# element_id: Mahesh
+  element_id: '{rand(['1', '2', '3','4', '5', '6','7', '8', '9','10', '11', '12'])}'
