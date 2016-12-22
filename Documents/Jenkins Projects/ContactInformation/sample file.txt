@@ -1,0 +1,10 @@
+lnno,fname,lname,contact,street,city,state,zipcode
+1,Mahesh,Bongale,999999999,BTM,Blore,Kar,1111111111
+2,Rajesh,Sha,8888888888,RR Road,Hubli,Karnataka,11111111
+
+4,Abhilash,Sha,23,df,fv,fv,v
+
+3,Ramesh,Sinha,22222222,Road,Hubli,Karnataka,44444444
+6,David,Dhawan,2134,wedfcv,dfcv,fcv ,fv
+
+5,Simran,jhon,dewc,dcfd ,ce fd,ve f,edc
